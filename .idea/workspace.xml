@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7d68b63d-a10c-4954-8962-a7eb89d7e02a" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/index.html" afterPath="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/index.css" afterPath="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/index.css" />
     </list>
     <ignored path="ggit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="386" column="35" selection-start-line="386" selection-start-column="35" selection-end-line="386" selection-end-column="35" />
+            <state relative-caret-position="458">
+              <caret line="393" column="7" selection-start-line="393" selection-start-column="7" selection-end-line="393" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aa.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/aa.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -64,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="42">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -95,13 +105,13 @@
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/less.css" />
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/less/less.less" />
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/.idea/index.html" />
-        <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/index.css" />
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/img/apple.svg" />
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/img/serch.svg" />
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/img/bao.svg" />
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/less/var.less" />
         <option value="$PROJECT_DIR$/wt.html" />
         <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/index.html" />
+        <option value="$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/index.css" />
       </list>
     </option>
   </component>
@@ -226,12 +236,12 @@
       <updated>1478526260724</updated>
       <workItem from="1478526264097" duration="16100000" />
       <workItem from="1478566768450" duration="4607000" />
-      <workItem from="1478577018701" duration="1120000" />
+      <workItem from="1478577018701" duration="1684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21827000" />
+    <option name="totallyTimeSpent" value="22391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -406,14 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/less.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2835">
@@ -440,8 +442,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="386" column="35" selection-start-line="386" selection-start-column="35" selection-end-line="386" selection-end-column="35" />
+        <state relative-caret-position="458">
+          <caret line="393" column="7" selection-start-line="393" selection-start-column="7" selection-end-line="393" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/aa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w1607-11.7-master/w1607-11.7-master/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
           <folding />
         </state>
       </provider>
