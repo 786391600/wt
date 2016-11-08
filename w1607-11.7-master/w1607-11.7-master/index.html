@@ -54,7 +54,10 @@
        $('.banner-right').click(function () {
            sport('left');
        })
+       $(window).resize(function () {
 
+
+       })
 
    })
 </script>
@@ -265,6 +268,20 @@
             border: 1px solid white;
             float: left;
         }
+        .row img{
+            width: 100%;
+            height:100%;
+        }
+    .banner .three-img{
+        height:100%;
+        width:100%;
+        margin-top: 0px
+
+    }
+    .lj{
+        height:300px;
+        background: #F2F2F2;
+    }
 
     @media screen and (min-width: 800px){
         .zs{
@@ -276,6 +293,15 @@
             border: 1px solid white;
             float: left;
         }
+        .banner img:nth-of-type(3){
+            display: none;
+        }
+        .banner .three-img{
+            height:auto;
+            width:100%;
+            margin-top: 0px
+
+        }
     }
     @media screen and (min-width: 1000px){
         .zs{
@@ -286,6 +312,25 @@
             height: 200px;
             border: 1px solid white;
             float: left;
+        }
+        .banner .three-img{
+            height:auto;
+            width:100%;
+            margin-top: -300px
+
+        }
+        .lj-con{
+            width: 73.222222%;
+            height: 100%;
+            background: #F2F2F2;
+            margin: 0 auto;
+        }
+        .lj-con-t{
+            height:47px;
+            border-bottom: 1px solid #E3E3E3;
+            font-size: 12px;
+            line-height: 47px;
+            color: #9EA1A4;
         }
     }
 
@@ -316,7 +361,7 @@
     <ul>
         <li class="b-img"><a href="#"><img src="img/banner2.jpg" alt=""></a></li>
         <li class="b-img"><a href="#"><img src="img/banner1.jpg" alt=""></a></li>
-        <li class="b-img"><a href="#"><img src="img/banner3.jpg" alt="" style="height:auto;width:100%;margin-top: -300px"></a></li>
+        <li class="b-img"><a href="#"><img src="img/banner3.jpg" alt=""  class="three-img"></a></li>
     </ul>
     <ul class="banner-fk">
         <li></li>
@@ -334,6 +379,16 @@
         <div class="col-l-3 col-m-6 col-s-12"><img src="img/zs2.jpg" alt=""></div>
         <div class="col-l-3 col-m-6 col-s-12"><img src="img/zs3.jpg" alt=""></div>
         <div class="col-l-3 col-m-6 col-s-12"><img src="img/zs4.jpg" alt=""></div>
+    </div>
+</div>
+<div class="lj container-fluid">
+    <div class="lj-con">
+        <div class="lj-con-t">
+            双镜头摄像头仅于 iPhone 7 Plus  提供。亮黑色外观仅于 128GB 及以上存储容量的机型提供。
+        </div>
+        <div class="lj-con-b">
+
+        </div>
     </div>
 </div>
 </body>
